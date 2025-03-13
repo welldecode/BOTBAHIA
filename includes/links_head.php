@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/content.css">
+<link rel="stylesheet" href="assets/css/effect-fade.css">
+<link rel="stylesheet" href="assets/css/swiper.min.css">
+<link rel="stylesheet" href="assets/css/app-dollar.css">
+<link rel="stylesheet" href="assets/css/app-tournaments.css">
+<link rel="stylesheet" href="assets/css/background.css">
+<link rel="stylesheet" href="assets/css/botaoCollapsado.css">
+<link rel="stylesheet" href="assets/css/botaoPadrao.css">
+<link rel="stylesheet" href="assets/css/cup-violet.css">
+<link rel="stylesheet" href="assets/css/temas.css">

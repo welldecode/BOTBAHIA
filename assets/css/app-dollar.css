@@ -1,0 +1,98 @@
+.dollar-day-timer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 96px;
+  padding: 0 18px 0 32px;
+  border: solid 1px var(--background-quinary);
+  border-radius: 8px;
+  background-color: var(--violet)
+}
+
+[dir=rtl] .dollar-day-timer {
+  padding: 0 32px 0 18px
+}
+
+.dollar-day-timer__timer {
+  display: flex;
+  text-align: center
+}
+
+.dollar-day-timer__timer-col:nth-child(even) {
+  padding: 0 10px
+}
+
+.dollar-day-timer__timer-col-value {
+  font-size: 32px;
+  line-height: 44px;
+  letter-spacing: -.4px
+}
+
+.dollar-day-timer__timer-col-title {
+  margin-top: 1px;
+  font-weight: 400
+}
+
+[dir=rtl] .dollar-day-timer__timer-col-title {
+  margin-top: -4px
+}
+
+.dollar-day-timer__title {
+  position: relative;
+  width: 100%;
+  margin-left: 32px
+}
+
+[dir=rtl] .dollar-day-timer__title {
+  margin: 0 32px 0 0
+}
+
+:not([dir="rtl"]) .-windows .dollar-day-timer__title {
+  top: 2px
+}
+
+:not([dir="rtl"]) .-android .dollar-day-timer__title {
+  padding-top: 1px
+}
+
+.dollar-day-timer.-vertical {
+  flex-direction: column;
+  height: 144px;
+  padding: 16px 0 24px
+}
+
+[dir=rtl] .dollar-day-timer.-vertical {
+  padding-bottom: 22px
+}
+
+.dollar-day-timer.-vertical .dollar-day-timer__title {
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center
+}
+
+@media screen and (max-width: 1180px) {
+  .dollar-day-timer {
+    display: block;
+    height: auto;
+    padding: 16px 0 22px
+  }
+
+  [dir=rtl] .dollar-day-timer {
+    padding: 14px 0 20px
+  }
+
+  .dollar-day-timer__timer {
+    justify-content: center
+  }
+
+  .dollar-day-timer__title {
+    margin: 22px 0 0;
+    text-align: center;
+    text-transform: uppercase
+  }
+
+  [dir=rtl] .dollar-day-timer__title {
+    margin: 18px 0 0
+  }
+}

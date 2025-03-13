@@ -1,0 +1,26 @@
+<svg width="511" height="336" viewBox="0 0 511 336" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_30)">
+<g style="mix-blend-mode:hard-light">
+<rect y="283.431" width="736" height="228" transform="rotate(-45 0 283.431)" fill="url(#paint0_linear_1_30)" fill-opacity="0.32"/>
+</g>
+<circle cx="98" cy="68" r="8" fill="black" fill-opacity="0.08"/>
+<circle cx="511" cy="132" r="8" fill="black" fill-opacity="0.08"/>
+<circle cx="139" cy="96" r="4" fill="black" fill-opacity="0.08"/>
+<path d="M470 190.5C470 192.709 468.209 194.5 466 194.5C463.791 194.5 462 192.709 462 190.5C462 188.291 463.791 186.5 466 186.5C468.209 186.5 470 188.291 470 190.5Z" fill="black" fill-opacity="0.08"/>
+<rect x="165" y="36" width="8" height="8" fill="black" fill-opacity="0.16"/>
+<rect x="165" y="52" width="8" height="8" fill="black" fill-opacity="0.16"/>
+<rect x="181" y="44" width="8" height="24" transform="rotate(90 181 44)" fill="black" fill-opacity="0.16"/>
+<rect x="484" y="237" width="6" height="6" fill="black" fill-opacity="0.16"/>
+<rect x="484" y="249" width="6" height="6" fill="black" fill-opacity="0.16"/>
+<rect x="496" y="243" width="6" height="18" transform="rotate(90 496 243)" fill="black" fill-opacity="0.16"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_30" x1="736.174" y1="397.605" x2="0.174336" y2="397.605" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_1_30">
+<rect width="511" height="336" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,190 @@
+[data-theme="default"] {
+  background-color: #ffffff !important;
+  color: #5c5c5c !important;
+}
+
+[data-theme="default"] select {
+  border: 1px solid rgb(211, 211, 211) !important;
+  font-size: 13px !important;
+}
+
+[data-theme="default"] .dashboard-leaderboards__user+.dashboard-leaderboards__user {
+  border-top: solid 1px #c5c5c5 !important;
+}
+
+[data-theme="default"] .lucratividade {
+  color: #37a81d !important;
+}
+
+[data-theme="default"] .sidebar {
+  background-color: #ebebeb !important;
+  border-right: solid 1px #dbdbdb !important;
+}
+
+[data-theme="default"] .sidebar:after {
+  border-left: solid 1px #dbdbdb;
+}
+
+[data-theme="default"] .sidebar-user {
+  border-top: solid 1px #dbdbdb;
+}
+
+@media screen and (max-width: 1180px) {
+  [data-theme="default"] .sidebar-user {
+    border-bottom: solid 1px #dbdbdb;
+  }
+
+  [data-theme="default"] .sidebar-mobile-header__inner:before {
+    background-color: #b9b9b9eb !important;
+  }
+}
+
+
+[data-theme="default"] .sidebar-user:before {
+  border-top: solid 1px #dbdbdb;
+}
+
+[data-theme="default"] .sidebar__group:last-child:before,
+.sidebar__group:after {
+  border-top: solid 1px #00000000!important;
+}
+
+[data-theme="default"] .sidebar__group {
+  border-bottom: solid 1px #dbdbdb;
+}
+
+[data-theme="default"] a {
+  color: #555555;
+}
+
+[data-theme="default"] .sidebar-nav-item:hover {
+  background-color: #ffffff;
+}
+
+[data-theme="default"] .header {
+  border-bottom: solid 1px #fdfdfd !important;
+}
+
+[data-theme="default"] .sidebar-header:after {
+  border-top: solid 1px #dbdbdb !important;
+  border-bottom: solid 1px #dbdbdb !important;
+}
+
+[data-theme="default"] .card-panel {
+  border: solid 1px #ebebeb !important;
+  background: #b9b9b9 !important;
+}
+
+[data-theme="default"] .dashboard-slider__category {
+  border: solid 2px #ffffff !important;
+}
+
+[data-theme="default"] .dashboard-slider__category-value p {
+  color: white !important;
+}
+
+[data-theme="default"] .dashboard-slider__slide-content p {
+  color: white !important;
+}
+
+[data-theme="default"] .dashboard-leaderboards {
+  background: #ebebeb !important;
+  border: solid 1px #ebebeb !important;
+}
+
+[data-theme="default"] .card-header .card-title {
+  color: #fff !important;
+}
+
+[data-theme="default"] .header {
+  background-color: #b9b9b9 !important;
+}
+
+[data-theme="default"] .btn-primary {
+  background: #ebebeb;
+  border: 1px solid #dbdbdb;
+}
+
+[data-theme="default"] div.dt-container {
+  background: #ebebeb;
+  border: solid 1px #dbdbdb;
+}
+
+[data-theme="default"] div.dt-container .dt-search input {
+  border: 1px solid #bbbbbb;
+}
+
+[data-theme="default"] table.dataTable>tbody>tr {
+  background-color: #b1b1b161;
+}
+
+[data-theme="default"] .form-group input {
+  border: 1px solid #adadad;
+}
+
+[data-theme="default"] .form-group span {
+  color: #696969;
+}
+
+[data-theme="default"] button {
+  color: #696969;
+}
+
+[data-theme="default"] table.dataTable.row-border>tbody>tr>*,
+table.dataTable.display>tbody>tr>* {
+  border-bottom: 1px solid #bbbbbb;
+}
+
+[data-theme="default"] .permission-bot {
+  color: #555656;
+}
+
+[data-theme="default"] .card-bot {
+  border: 1px solid #dbdbdb;
+  background: #ebebeb;
+}
+
+[data-theme="default"] .switch-bot {
+  color: white;
+}
+
+[data-theme="default"] .comprado,
+.vendido {
+  color: #397d58;
+}
+
+[data-theme="default"] .btn-edit {
+  color: white !important;
+}
+
+[data-theme="default"] .accordion {
+  background-color: #ebebeb;
+  border: 1px solid #dbdbdb;
+}
+
+[data-theme="default"] .panel {
+  border: 1px solid #dbdbdb;
+}
+
+[data-theme="orange"] {
+  background-color: #ff8d00 !important;
+}
+
+[data-theme="blue"] {
+  background-color: #007bff !important;
+  color: #fff;
+}
+
+[data-theme="green"] {
+  background-color: #28a745 !important;
+  color: #fff;
+}
+
+[data-theme="red"] {
+  background-color: #dc3545 !important;
+  color: #fff;
+}
+
+.bg-white {
+  background-color: inherit !important;
+}
